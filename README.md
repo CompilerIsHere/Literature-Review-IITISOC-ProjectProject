@@ -18,3 +18,6 @@ Whether you're a researcher, student, or enthusiast, **PaperDigest** simplifies 
 ### 3. Summarises pure text also
 * Change the summarizer mode from link to text to get summary of text.
 * Paste any text and get its summary.
+
+# Contributors
+[Ishaan Sammi]()
