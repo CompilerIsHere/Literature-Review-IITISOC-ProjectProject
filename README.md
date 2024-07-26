@@ -20,4 +20,5 @@ Whether you're a researcher, student, or enthusiast, **PaperDigest** simplifies 
 * Paste any text and get its summary.
 
 # Contributors
-[Ishaan Sammi]()
+[Ishaan Sammi](https://github.com/IshaanSammi)
+[Saksham Gautam](https://github.com/CompilerIsHere)
