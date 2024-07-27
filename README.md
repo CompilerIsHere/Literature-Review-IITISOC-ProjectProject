@@ -13,6 +13,8 @@ Whether you're a researcher, student, or enthusiast, **PaperDigest** simplifies 
 * **URL of website** : Summarize the text content of a website by passing its URL to **PaperDigest**.
 * **HTML format supported** : Pass the link of html format of the research paper and get its summary.
 
+  ![Summary](https://github.com/CompilerIsHere/Literature-Review-IITISOC-ProjectProject/blob/main/Images/WhatsApp%20Image%202024-07-26%20at%207.35.07%20PM.jpeg)
+
 ### 2. Table Extraction
 * Extract and view tables from research papers to easily grasp the data and results.
 *  **Data Analysis**: Facilitates the analysis of structured data that is often presented in tables within research papers, reports, and articles.
