@@ -26,8 +26,13 @@ Whether you're a researcher, student, or enthusiast, **PaperDigest** simplifies 
 ### 3. Summarises pure text also
 * Change the summarizer mode from link to text to get summary of text.
 * Paste any text and get its summary.
-  
+
+#Report
+A detailed description of the pipeline, our approaches and pros-cons of the different techniques used is provided in [this](https://docs.google.com/presentation/d/1GYszBk102gT_zUnR5IGqz-3w63NqaYxd/edit?usp=sharing&ouid=109163125186636273961&rtpof=true&sd=true) report.
 
 # Contributors
 * [Ishaan Sammi](https://github.com/IshaanSammi)
 * [Saksham Gautam](https://github.com/CompilerIsHere)
+
+#Mentors
+[Devanshi Chhatbar](https://github.com/devanshi00)
