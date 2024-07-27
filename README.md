@@ -2,7 +2,7 @@
 
 This Project is a Part of IITI SOC'24.
 
-![Web Page](https://github.com/CompilerIsHere/Literature-Review-IITISOC-ProjectProject/blob/main/Screenshot%20(42).png)
+![Web Page](https://github.com/CompilerIsHere/Literature-Review-IITISOC-ProjectProject/blob/main/Images/Screenshot%20(46).png)
 
 Welcome Screen of our Webapp.
 Welcome to **PaperDigest**, an advanced summarization model designed to streamline your research journey. **PaperDigest** leverages web scraping techniques to extract and condense key insights from research papers.
