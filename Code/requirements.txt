@@ -1,0 +1,9 @@
+pandas==1.5.3
+numpy==1.24.3
+matplotlib==3.6.2
+streamlit>=1.12.0
+beautifulsoup4
+requests
+tabula-py
+tabulate
+dataframe_image
