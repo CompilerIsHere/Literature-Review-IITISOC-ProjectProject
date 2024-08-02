@@ -7,5 +7,3 @@ requests
 tabula-py
 tabulate
 dataframe_image
-API_URL = "https://api-inference.huggingface.co/models/facebook/bart-large-cnn"
-headers = {"Authorization": "Bearer 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"}
