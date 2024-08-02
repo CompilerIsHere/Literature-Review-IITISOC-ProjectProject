@@ -39,6 +39,8 @@ A detailed description of the pipeline, our approaches and pros-cons of the diff
 # Contributors
 * [Ishaan Sammi](https://github.com/IshaanSammi)
 * [Saksham Gautam](https://github.com/CompilerIsHere)
+* [Deepanshu](https://github.com/Deepanshu41008)
+* [Raunak](https://github.com/Raunakanand)
 
 # Mentors
 * [Devanshi Chhatbar](https://github.com/devanshi00)
