@@ -79,7 +79,7 @@ def app():
 
   left, right = st.columns(2)
   with right:
-    st.image("iitisoc.png")
+    # st.image("iitisoc.png")
 
   with left:
     st.header('Summary Generator')
