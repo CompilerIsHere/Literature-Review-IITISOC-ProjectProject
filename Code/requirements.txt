@@ -7,4 +7,3 @@ requests
 tabula-py
 tabulate
 dataframe_image
-openjdk-17-jre
