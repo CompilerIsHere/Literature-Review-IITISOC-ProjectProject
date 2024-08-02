@@ -78,7 +78,7 @@ def app():
 
 
   left, right = st.columns(2)
-  with right:
+  # with right:
     # st.image("iitisoc.png")
 
   with left:
