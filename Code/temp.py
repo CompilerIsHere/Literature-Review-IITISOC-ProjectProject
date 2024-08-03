@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import streamlit as st
 
 API_URL = "https://api-inference.huggingface.co/models/facebook/bart-large-cnn"
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer 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"}
 
 def query(payload):
 	response = requests.post(API_URL, headers=headers, json=payload)
